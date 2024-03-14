@@ -1,0 +1,21 @@
+body {
+    background-color: #F5F5DC;
+    color: #8B4513;
+}
+
+a {
+    color: #FF0000;
+    font-family: 'Jost', sans-serif;
+}
+
+ul {
+    list-style-image: url('https://www.csd.uwo.ca/~lreid2/cs1033/assignment2/spring2023birds/checkbox.gif');
+}
+
+h1, h2 {
+    font-family: 'Merriweather', serif;
+}
+
+p, ul {
+    font-family: 'Jost', sans-serif;
+}
