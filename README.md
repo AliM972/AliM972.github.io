@@ -13,3 +13,7 @@ Welcome to Camping Adventures, your ultimate online resource for all things camp
 
 - HTML: Structure of the web pages.
 - CSS: Styling and layout of the content.
+
+## Getting Started
+
+To view the website, visit AliM972@.github.io or simply download all the files into the same folder and open `index.html` file in a modern web browser.
