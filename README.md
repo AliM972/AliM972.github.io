@@ -16,4 +16,4 @@ Welcome to Camping Adventures, your ultimate online resource for all things camp
 
 ## Getting Started
 
-To view the website, visit AliM972@.github.io or simply download all the files into the same folder and open `index.html` file in a modern web browser.
+To view the website, visit https://AliM972.github.io or simply download all the files into the same folder and open `index.html` file in a modern web browser.
